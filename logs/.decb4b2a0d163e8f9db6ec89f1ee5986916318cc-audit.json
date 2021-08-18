@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/var/www/html/PlayDate_NodeJS/PlayDateApp/logs/.decb4b2a0d163e8f9db6ec89f1ee5986916318cc-audit.json",
+    "files": [
+        {
+            "date": 1627360636390,
+            "name": "/var/www/html/PlayDate_NodeJS/PlayDateApp/logs/logs-2021-07-27.log",
+            "hash": "19870ec0f77f83013054ce2aff6d8395"
+        }
+    ]
+}

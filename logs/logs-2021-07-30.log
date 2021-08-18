@@ -1,0 +1,3 @@
+{"message":"PlayDate listening on port 3000","level":"info"}
+{"message":"/api/admin/register","level":"info"}
+{"message":{"fullName":"Admin","email":"admin007@gmail.com","phoneNo":"9800065963","password":"A123456","userRoleType":"Subadmin","deviceType":"Web"},"level":"info"}

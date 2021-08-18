@@ -1,0 +1,10 @@
+{"message":"PlayDate listening on port 3000","level":"info"}
+{"message":"PlayDate listening on port 3000","level":"info"}
+{"message":"/api/user/get-business-coupons","level":"info"}
+{"message":{"userId":"60f6b01bb50fcf40e7232822","limit":"10","pageNo":"1","status":"Active"},"level":"info"}
+{"message":"/api/user/update-business-coupon","level":"info"}
+{"message":{"couponId":"60fa6bd57125d91844dd9cd5"},"level":"info"}
+{"message":"/api/user/delete-business-coupon","level":"info"}
+{"message":{"couponId":"60fa6bd57125d91844dd9cd5"},"level":"info"}
+{"message":"/api/user/get-business-coupons","level":"info"}
+{"message":{"userId":"60f6b01bb50fcf40e7232822","limit":"10","pageNo":"1","status":"Active"},"level":"info"}

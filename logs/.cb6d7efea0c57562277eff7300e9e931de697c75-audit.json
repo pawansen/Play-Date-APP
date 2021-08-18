@@ -1,0 +1,39 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/var/www/html/PlayDate_NodeJS/PlayDateApp/logs/.cb6d7efea0c57562277eff7300e9e931de697c75-audit.json",
+    "files": [
+        {
+            "date": 1627360874984,
+            "name": "/var/www/html/PlayDate_NodeJS/PlayDateApp/logs/logs-2021-07-27.log",
+            "hash": "5fb711200eb42ab4805b0ba5f0d08944"
+        },
+        {
+            "date": 1627445609152,
+            "name": "/var/www/html/PlayDate_NodeJS/PlayDateApp/logs/logs-2021-07-28.log",
+            "hash": "662bfcec8e2989e3db180e41146fdc59"
+        },
+        {
+            "date": 1627545248720,
+            "name": "/var/www/html/PlayDate_NodeJS/PlayDateApp/logs/logs-2021-07-29.log",
+            "hash": "59067860be46a91c20dce93d507898c5"
+        },
+        {
+            "date": 1627633246079,
+            "name": "/var/www/html/PlayDate_NodeJS/PlayDateApp/logs/logs-2021-07-30.log",
+            "hash": "3d71f79ecd3a000c2fcc442a20489a6d"
+        },
+        {
+            "date": 1627965095927,
+            "name": "/var/www/html/PlayDate_NodeJS/PlayDateApp/logs/logs-2021-08-03.log",
+            "hash": "e4af470bec145c8c0d3ec278450eddbd"
+        },
+        {
+            "date": 1628059270212,
+            "name": "/var/www/html/PlayDate_NodeJS/PlayDateApp/logs/logs-2021-08-04.log",
+            "hash": "9aa25810747628c72067dd2fc4bdce11"
+        }
+    ]
+}
